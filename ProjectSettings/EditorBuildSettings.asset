@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c1b78f1ed6ab07a46a1d4b2b5ad0369e
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bowuguan.unity
+    guid: dbe8ce46e8b456045982921f0be44bf3
+  - enabled: 1
+    path: Assets/Scenes/bianque/bianque_start.unity
+    guid: 7c453d36ea50c8f40ad54f3568784200
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u8662\u56FD/bianque_guo_1.unity"
+    guid: 1069bc769c4a1da43885c9998c7a1559
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u8662\u56FD/bianque_guo_2.unity"
+    guid: 318e0dd94eafc124490f482184ccc8cd
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u8662\u56FD/bianque_guo_3.unity"
+    guid: 0661dbea8e570ef4fac07691adc121dc
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u8662\u56FD/bianque_guo_4.unity"
+    guid: d3b5c597f6a8486459dc4dce6905c37a
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u536B\u56FD/bianque_wei_1.unity"
+    guid: 0641b2c83d11f414bb56047fd9007322
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u536B\u56FD/bianque_wei_2.unity"
+    guid: 215d4991ea67bea41bf5ae9300e8b5df
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u536B\u56FD/bianque_wei_3.unity"
+    guid: 6bd56948ac1a00e44b6bde5e02f78032
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u664B\u56FD/bianque_jin_1.unity"
+    guid: 8a8a1c67400f412409a71b5a40a149ac
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u664B\u56FD/bianque_jin_2.unity"
+    guid: cefc1714c3926f647b1c797b206dfb97
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u9F50\u56FD/bianque_qi_1.unity"
+    guid: 6298a07f111e56c4983747f66c6adf22
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u9F50\u56FD/bianque_qi_2.unity"
+    guid: 78250c0462aade0408efe2618c0285e6
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u9F50\u56FD/bianque_qi_3.unity"
+    guid: 32c02212f11fc1d46899fcf44a848ef1
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u9F50\u56FD/bianque_qi_4.unity"
+    guid: 1298cb4eb0235be42af46413cc29f6e0
+  - enabled: 1
+    path: "Assets/Scenes/bianque/\u9F50\u56FD/bianque_qi_5.unity"
+    guid: 06477c24a9ff6a44194046be4dfc1aec
+  - enabled: 1
+    path: Assets/Scenes/qianyi/qianyi_start.unity
+    guid: 5a20a154abc2a2f408181dcd9430b1a1
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u4E94\u810F\u8FA9\u8BC1/qianyi_wu_1.unity"
+    guid: 5d489a674fbb8b2489fae6ffc4d87ef9
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u4E94\u810F\u8FA9\u8BC1/qianyi_wu_2.unity"
+    guid: 81ce096320bd5b845aeb8ea976012c2a
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u4E94\u810F\u8FA9\u8BC1/qianyi_wu_3.unity"
+    guid: 362615ab757ce244ab441b07b093f8d5
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u72EC\u91CD\u671B\u8BCA/qianyi_du_1.unity"
+    guid: 33e14fd9ca490604db6900801b5b7062
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u813E\u80C3\u8C03\u7406/qianyi_pi_1.unity"
+    guid: f84881a9a20d1894ea0ceca859146de8
+  - enabled: 1
+    path: "Assets/Scenes/qianyi/\u813E\u80C3\u8C03\u7406/qianyi_pi_2.unity"
+    guid: 3c6c79d396a9dd5469ffc9f889e48e2c
+  - enabled: 1
+    path: Assets/Scenes/sunsimiao/sunsimiao_start.unity
+    guid: 94785eb3baaf6d6459dbc62b636c857e
+  - enabled: 1
+    path: Assets/Scenes/sunsimiao/yangsheng/sunsimiao_yangsheng_1.unity
+    guid: ffa7788c31884e840b0e31dc7b22396b
+  - enabled: 1
+    path: Assets/Scenes/sunsimiao/furu/sunsimiao_furu_1.unity
+    guid: f9727e54c3074ea468dddd00749dd559
+  - enabled: 1
+    path: Assets/Scenes/sunsimiao/yaoji/sunsimiao_yaoji_1.unity
+    guid: 1bede0c30a50fa740a129f23615b6d5c
+  - enabled: 1
+    path: Assets/Scenes/sunsimiao/yide/sunsimiao_yide_1.unity
+    guid: 87143364a76c3f04ab2f7cb2528e3f92
+  - enabled: 1
+    path: Assets/Scenes/zhangzhongjing/zhangzhongjing_start.unity
+    guid: 1eaf5cfda611f2f4fa2f868b7d562083
+  - enabled: 1
+    path: Assets/Scenes/zhangzhongjing/luanshilizhi/zhangzhongjing_luanshi_1.unity
+    guid: eae07cd25e128ee498e40360213be1ee
+  - enabled: 1
+    path: Assets/Scenes/zhangzhongjing/luanshilizhi/zhangzhongjing_luanshi_2.unity
+    guid: cb97c790a49903d43bb42de4af226140
+  - enabled: 1
+    path: Assets/Scenes/zhangzhongjing/weirenyifeng/zhangzhongjing_weirenyifeng_1.unity
+    guid: 83d6162cce41f57418e8b974994ef877
+  - enabled: 1
+    path: Assets/Scenes/zhangzhongjing/weirenyifeng/zhangzhongjing_weirenyifeng_2.unity
+    guid: a13af1d8412e7e04082f672a2a53a64f
+  - enabled: 1
+    path: Assets/Scenes/huatuo/huatuo_start.unity
+    guid: 240f1f677835c084d850c629f8b259e3
+  - enabled: 1
+    path: Assets/Scenes/huatuo/wuqinxi/huatuo_wuqinxi_1.unity
+    guid: c16335632cffab44490b6526551ff570
+  - enabled: 1
+    path: Assets/Scenes/huatuo/mafeisan/huatuo_mafeisan_1.unity
+    guid: 03a3b2b5fc085a942b5d7047d38f385a
+  m_configObjects: {}

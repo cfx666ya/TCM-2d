@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ziyang
+  - Zibao
+  - Yaocai
+  - gateGuoguo
+  - gateWeiguo
+  - Zhaojianzi
+  - Qihuanhou
+  - QiGate
+  - Xin
+  - Gan
+  - Pi
+  - Fei
+  - Shen
+  - PlayerXin
+  - PlayerGan
+  - PlayerPi
+  - PlayerFei
+  - PlayerShen
+  - Baishusanmo
+  - Wrong
+  - Gate_Dongfeng
+  - YaoshuRight
+  - YaoshuWrong
+  - YaoshuWrong_2
+  - QisheRight
+  - QisheWrong_1
+  - QisheWrong_2
+  - QisheWrong_3
+  - QisheWrong_4
+  - QisheWrong_5
+  - Yaofang
+  - Zhanhuo
+  - gateZhangzhongjing
+  - Bingren
+  - Deadline
+  - ImageBianque
+  - ImageQianyi
+  - ImageDongfeng
+  - ImageHuatuo
+  - ImageLishizhen
+  - ImageSunsimiao
+  - ImageZhangzhongjing
+  - Snake
+  - Lingwu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1414737905
+    locked: 0
+  - name: Tree
+    uniqueID: 3707312971
+    locked: 0
+  - name: Show
+    uniqueID: 3428004399
+    locked: 0
+  - name: Bowuguan
+    uniqueID: 3436073557
+    locked: 0
+  - name: Otherman
+    uniqueID: 1722016649
+    locked: 0
+  - name: Player2
+    uniqueID: 1743284899
+    locked: 0
+  - name: Player
+    uniqueID: 3892995995
+    locked: 0
+  - name: UI
+    uniqueID: 2826581485
+    locked: 0

@@ -1,0 +1,41 @@
+# Unity 标准忽略文件
+# ================================================================
+# Unity 生成的缓存与临时目录
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 打包产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
