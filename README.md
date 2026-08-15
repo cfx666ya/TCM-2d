@@ -1,16 +1,11 @@
-# 中医药博物馆 —— 循千年精粹，品中医韵味
+# 中医药博物馆
 
 > 一款以中医药文化为主题的 **2D 教育类休闲游戏**，使用 Unity 开发。
 > 玩家以参观者的身份走进中医药博物馆，与**钱乙、张仲景、华佗、扁鹊、孙思邈**五位历史名医展开互动，在剧情与闯关中感受中医药文化的博大精深。
 
 ## 🎬 演示视频
 
-<!-- 预留：在此粘贴游戏演示视频链接，例如 -->
-<!-- [演示视频 - Bilibili](https://www.bilibili.com/video/你的视频BV号) -->
-<!-- [演示视频 - YouTube](https://www.youtube.com/watch?v=你的视频ID) -->
-
-> 🚧 视频链接待补充
-
+【中医药博物馆2d】 https://www.bilibili.com/video/BV181by6HE8w/?share_source=copy_web&vd_source=72b92bf2f7319b1f49cf49d75e51057e
 ---
 
 ## 📖 项目简介
